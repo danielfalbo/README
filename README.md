@@ -10,7 +10,7 @@ I am also very imperfect and I hope that my transparency about them here is not 
 
 ## My role
 
-I was previously a Founding Software Engineer Intern at [Fankee](https://fankee.com), AI Engineer Intern at [Plannix](https://plannix.co), Co-founder/CTO at [DanceCut AI](https://www.instagram.com/p/DJ2LJ3PvD5C/), [Anytime.so](https://anytime.so), [Ybook NFT](https://ybook.danielfalbo.com) and [more](https://danielfalbo.com).
+I was previously Founding Software Engineer Intern at [Fankee](https://fankee.com), AI Engineer Intern at [Plannix](https://plannix.co), Co-founder/CTO at [DanceCut AI](https://www.instagram.com/p/DJ2LJ3PvD5C/), [Anytime.so](https://anytime.so), [Ybook NFT](https://ybook.danielfalbo.com) and [more](https://danielfalbo.com).
 
   
 ## Me in a few words
