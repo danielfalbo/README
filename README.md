@@ -1,5 +1,9 @@
 # Hi, I'm Daniel
 
+<!-- TODO: add notes/blob/main/raw/2025-06-_reflection.txt considerations -->
+
+<!-- TODO: mention something like "I'm bad at deadlines/estimations, I'm always too optimistic and end up late. I still think this is the best way to have the best results in terms of both quality and time. I care and I'll bend over twice to try to stay within deadlines but most importantly shipping high-quality work I'm proud of. -->
+
 ## Why read me?
 
 I'm writing this in the hope that we can fast forward through some getting-to-know-you facets of me that we might miss (of course doing so IRL is better, but not always possible).
