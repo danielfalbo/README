@@ -1,5 +1,7 @@
 # Hi, I'm Daniel
 
+<!-- TODO: https://brooker.co.za/blog/2024/02/06/time.html  -->
+
 <!-- TODO: add notes/blob/main/raw/2025-06-_reflection.txt considerations -->
 
 <!-- TODO: mention something like "I'm bad at deadlines/estimations, I'm always too optimistic and end up late. I still think this is the best way to have the best results in terms of both quality and time. I care and I'll bend over twice to try to stay within deadlines but most importantly shipping high-quality work I'm proud of. -->
