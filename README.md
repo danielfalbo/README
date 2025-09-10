@@ -1,5 +1,7 @@
 # Hi, I'm Daniel
 
+<!-- TODO: paulgraham.com/makersschedule.html 1 call and my entire day automatically switches to Manager mode -->
+
 <!-- TODO: https://brooker.co.za/blog/2024/02/06/time.html  -->
 
 <!-- TODO: add notes/blob/main/raw/2025-06-_reflection.txt considerations -->
